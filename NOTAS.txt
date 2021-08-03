@@ -1,0 +1,13 @@
+# los proyectos se hacen en la siguiente ruta
+http://localhost/portafolio/public/proyectos
+## se necesita estar logueado para los proyectos
+
+##pasword 12345678
+
+## public es la pagina principal ## donde se desplegara el portafolio
+es decir :http://localhost/portafolio/public/
+
+## mi foto esta enmarcada no necesita bd 
+## la foto de los proyectos si necesitan bd
+
+## font awesome usado
